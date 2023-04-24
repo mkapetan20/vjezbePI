@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EvaluationManager_mk20",
+    "\\EvaluationManager_mk20\\EvaluationManager_mk20"
   ],
-  "SelectedNode": "\\C:\\Users\\foi.LABOS\\Desktop\\mkapetan20\\vjezbePI",
+  "SelectedNode": "\\EvaluationManager_mk20\\EvaluationManager_mk20\\FrmLogin.cs",
   "PreviewInSolutionExplorer": false
 }
